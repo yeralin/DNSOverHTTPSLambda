@@ -1,0 +1,2 @@
+pydantic==1.8.2
+doh-proxy==0.0.9

@@ -1,0 +1,36 @@
+{
+    "version": "2.0",
+    "routeKey": "ANY /dns-query/",
+    "rawPath": "/dns-query",
+    "rawQueryString": "",
+    "headers": {
+        "accept": "application/dns-message",
+        "content-length": "128",
+        "content-type": "application/dns-message",
+        "host": "xxxxxxxxxx.execute-api.us-east-1.amazonaws.com",
+        "x-amzn-trace-id": "Root=1-60c25bbb-7f2dfde532ee2026279f4717",
+        "x-forwarded-for": "0.0.0.0",
+        "x-forwarded-port": "443",
+        "x-forwarded-proto": "https"
+    },
+    "requestContext": {
+        "accountId": "000000000000",
+        "apiId": "xxxxxxxxxx",
+        "domainName": "xxxxxxxxxx.execute-api.us-east-1.amazonaws.com",
+        "domainPrefix": "xxxxxxxxxx",
+        "http": {
+            "method": "POST",
+            "path": "/dns-query",
+            "protocol": "HTTP/1.1",
+            "sourceIp": "0.0.0.0",
+            "userAgent": ""
+        },
+        "requestId": "AuNFUjb3oAMEPzw=",
+        "routeKey": "ANY /dns-query",
+        "stage": "$default",
+        "time": "01/Jun/2000:00:00:00 +0000",
+        "timeEpoch": 0
+    },
+    "body": "AAABAAABAAAAAAABBmdvb2dsZQNjb20AAAEAAQAAKRAAAAAAAABZAAwAVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "isBase64Encoded": true
+}

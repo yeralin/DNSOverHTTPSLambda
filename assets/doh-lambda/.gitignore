@@ -1,0 +1,9 @@
+/*
+
+# Allowlist some files
+!.gitignore
+!doh.py
+!models.py
+!utils.py
+!exceptions.py
+!requirements.txt
